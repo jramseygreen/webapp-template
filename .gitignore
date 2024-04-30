@@ -3,3 +3,6 @@
 
 # Ignore venv folder
 venv/
+
+# ignore database
+instance/
