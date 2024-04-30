@@ -1,5 +1,5 @@
 # Ignore Python compiled bytecode
 *.pyc
 
-# Ignore linux_venv folder
-linux_venv/
+# Ignore venv folder
+venv/
