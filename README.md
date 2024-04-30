@@ -16,5 +16,11 @@ enter the environment
 install the packages
 `pip install -r requirements.txt`
 
+navigate to the frontend
+`cd frontent`
+
+install the packages
+`npm install`
+
 run the app
 `python main.py`
