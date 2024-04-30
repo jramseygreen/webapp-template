@@ -27,3 +27,11 @@ build the frontend
 
 run the app
 `python main.py`
+
+
+
+Default admin account
+
+username: `admin`
+
+password `admin`
