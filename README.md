@@ -22,5 +22,8 @@ navigate to the frontend
 install the packages
 `npm install`
 
+build the frontend
+`npm run build`
+
 run the app
 `python main.py`
