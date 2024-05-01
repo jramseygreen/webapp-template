@@ -16,6 +16,9 @@ enter the environment
 install the packages
 `pip install -r requirements.txt`
 
+using pip-review package for updating all packages
+`pip-review --auto`
+
 navigate to the frontend
 `cd frontent`
 
